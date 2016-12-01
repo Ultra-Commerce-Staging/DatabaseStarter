@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>BroadleafCommerce Database Starter</name>
-    <description>HSQL database starter for Broadleaf Commerce persistence units</description>
+    <description>JDBC database starter for Broadleaf Commerce persistence units</description>
 
     <parent>
         <groupId>com.broadleafcommerce</groupId>
