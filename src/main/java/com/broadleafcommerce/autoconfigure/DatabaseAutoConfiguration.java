@@ -67,7 +67,7 @@ public class DatabaseAutoConfiguration {
     }
 
     @ConditionalOnMissingBean(name={"demoDS"})
-    @ConditionalOnClass(name= "com.broadleafcommerce.registered.common.domain.PDSite")
+    @ConditionalOnClass(name= "com.blcdemo.core.domain.PDSite")
     @Bean
     public DataSource demoDS() throws ClassNotFoundException {
         return buildDataSource();
