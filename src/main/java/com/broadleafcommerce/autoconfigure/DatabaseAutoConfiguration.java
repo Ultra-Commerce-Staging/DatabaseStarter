@@ -24,9 +24,11 @@ import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceBuilder;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.boot.jdbc.DatabaseDriver;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
+
 import javax.sql.DataSource;
 
 /**
@@ -74,15 +76,22 @@ public class DatabaseAutoConfiguration {
     }
 
     protected DataSource buildDataSource() throws ClassNotFoundException {
-        DataSource ds = DataSourceBuilder
+        DatabaseDriver driver = DatabaseDriver.fromJdbcUrl(props.getUrl());
+        org.apache.tomcat.jdbc.pool.DataSource ds = (org.apache.tomcat.jdbc.pool.DataSource) DataSourceBuilder
                 .create()
                 .username(props.getUser())
                 .password(props.getPassword())
                 .url(props.getUrl())
-                .driverClassName(props.getDriver())
+                .driverClassName(driver.getDriverClassName())
                 .type(org.apache.tomcat.jdbc.pool.DataSource.class)
                 .build();
-
+        
+        String validationQuery = driver.getValidationQuery();
+        if (validationQuery != null) {
+            ds.setTestOnBorrow(true);
+            ds.setValidationQuery(validationQuery);
+        }
+        
         return ds;
     }
 
