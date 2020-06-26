@@ -35,6 +35,16 @@ public class DBProperties {
 
     protected String url;
 
+    protected Integer initialSize;
+
+    protected Integer maxActive;
+
+    protected Integer maxIdle;
+
+    protected Integer maxWait;
+
+    protected Integer minIdle;
+
     public String getType() {
         return type;
     }
@@ -71,5 +81,45 @@ public class DBProperties {
 
     public void setUrl(String url) {
         this.url = url;
+    }
+
+    public Integer getInitialSize() {
+        return initialSize;
+    }
+
+    public void setInitialSize(Integer initialSize) {
+        this.initialSize = initialSize;
+    }
+
+    public Integer getMaxActive() {
+        return maxActive;
+    }
+
+    public void setMaxActive(Integer maxActive) {
+        this.maxActive = maxActive;
+    }
+
+    public Integer getMaxIdle() {
+        return maxIdle;
+    }
+
+    public void setMaxIdle(Integer maxIdle) {
+        this.maxIdle = maxIdle;
+    }
+
+    public Integer getMaxWait() {
+        return maxWait;
+    }
+
+    public void setMaxWait(Integer maxWait) {
+        this.maxWait = maxWait;
+    }
+
+    public Integer getMinIdle() {
+        return minIdle;
+    }
+
+    public void setMinIdle(Integer minIdle) {
+        this.minIdle = minIdle;
     }
 }

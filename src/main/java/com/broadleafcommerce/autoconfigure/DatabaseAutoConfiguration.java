@@ -102,6 +102,26 @@ public class DatabaseAutoConfiguration {
             ds.setValidationQuery(validationQuery);
         }
 
+        if (props.getInitialSize() != null) {
+            ds.setInitialSize(props.getInitialSize());
+        }
+
+        if (props.getMaxActive() != null) {
+            ds.setMaxActive(props.getMaxActive());
+        }
+
+        if (props.getMaxIdle() != null) {
+            ds.setMaxIdle(props.getMaxIdle());
+        }
+
+        if (props.getMaxWait() != null) {
+            ds.setMaxWait(props.getMaxWait());
+        }
+
+        if (props.getMaxIdle() != null) {
+            ds.setMinIdle(props.getMaxIdle());
+        }
+
         return ds;
     }
 
