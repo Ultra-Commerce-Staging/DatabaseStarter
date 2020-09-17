@@ -4,10 +4,10 @@
  * %%
  * Copyright (C) 2009 - 2016 Ultra Commerce
  * %%
- * Licensed under the Broadleaf Fair Use License Agreement, Version 1.0
+ * Licensed under the Ultra Fair Use License Agreement, Version 1.0
  * (the "Fair Use License" located  at http://license.ultracommerce.org/fair_use_license-1.0.txt)
- * unless the restrictions on use therein are violated and require payment to Broadleaf in which case
- * the Broadleaf End User License Agreement (EULA), Version 1.1
+ * unless the restrictions on use therein are violated and require payment to Ultra in which case
+ * the Ultra End User License Agreement (EULA), Version 1.1
  * (the "Commercial License" located at http://license.ultracommerce.org/commercial_license-1.1.txt)
  * shall apply.
  * 
@@ -131,11 +131,11 @@ public class DatabaseAutoConfiguration {
         }
 
         if (NEW_MYSQL.equals(explicitDriverClassName)) {
-            LOG.warn("Application explicitly set the driver class to " + NEW_MYSQL + ". Broadleaf recommends using driver class " + OLD_MYSQL + " as it performs better. Set \"database.driver=" + OLD_MYSQL + "\" to use the more performant driver.");
+            LOG.warn("Application explicitly set the driver class to " + NEW_MYSQL + ". Ultra recommends using driver class " + OLD_MYSQL + " as it performs better. Set \"database.driver=" + OLD_MYSQL + "\" to use the more performant driver.");
         }
 
         if (explicitDriverClassName == null && NEW_MYSQL.equals(springDriverClassName)) {
-            LOG.warn("Application did not set property database.driver when using MySQL therefore driver class " + NEW_MYSQL + " will be used per Spring's recommendation. Broadleaf suggests using driver class " + OLD_MYSQL + " as it performs better than " + NEW_MYSQL + ".");
+            LOG.warn("Application did not set property database.driver when using MySQL therefore driver class " + NEW_MYSQL + " will be used per Spring's recommendation. Ultra suggests using driver class " + OLD_MYSQL + " as it performs better than " + NEW_MYSQL + ".");
         }
 
         if (explicitDriverClassName != null && !explicitDriverClassName.equals(springDriverClassName) && !OLD_MYSQL.equals(explicitDriverClassName)) {

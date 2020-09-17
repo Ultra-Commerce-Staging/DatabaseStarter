@@ -4,7 +4,7 @@ The DatabaseStarter module provides -----TBA----.
 
 ## Compatibility
 
-| Module Version               | Compatible Broadleaf Versions |
+| Module Version               | Compatible Ultra Versions |
 | :--------------------------- | :---------------------------- | 
 | 2.0.0-GA                     | 6.0.0-GA                      |
 
