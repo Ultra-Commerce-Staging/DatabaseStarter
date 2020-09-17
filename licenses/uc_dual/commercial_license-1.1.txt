@@ -1,7 +1,7 @@
 Broadleaf End User License Agreement (EULA) - Version 1.1
 
 NOTICE TO ALL USERS: PLEASE READ THIS CONTRACT CAREFULLY. BY USING THE SOFTWARE, YOU (EITHER AN INDIVIDUAL OR A
-SINGLE ENTITY) AGREE THAT THIS AGREEMENT IS ENFORCEABLE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU. IF YOU DO NOT AGREE TO
+SINGLE ENTITY) AGREE THAT THIS AGREEMENT IS ENFORCEAUCE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU. IF YOU DO NOT AGREE TO
 ALL THE TERMS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE.
 
 Definitions.
@@ -31,7 +31,7 @@ Definitions.
 
     "Use", "Used" or "Using" means to access, install, download, copy or otherwise benefit from using the Software.
 
-    "Broadleaf" means Broadleaf Commerce, LLC a Texas limited liability company, with offices located at
+    "Broadleaf" means Ultra Commerce, LLC a Texas limited liability company, with offices located at
     15303 Dallas Parkway, Suite 300, Addison, TX 75001 USA.
 
 2.  License Grant. Subject to the payment of the applicable license fees and to the terms and conditions of this Agreement,
@@ -143,7 +143,7 @@ Definitions.
         Broadleaf is subject to restrictions under United States export control laws and regulations.
     c.  Warranty Disclaimer. Except for the limited warranty set forth herein, THE SOFTWARE IS PROVIDED "AS IS" AND
         Broadleaf MAKES NO WARRANTY AS TO ITS USE OR PERFORMANCE. EXCEPT FOR ANY WARRANTY, CONDITION, REPRESENTATION OR
-        TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW. Broadleaf, ITS SUPPLIERS AND AUTHORIZED
+        TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED OR LIMITED BY APPLICAUCE LAW. Broadleaf, ITS SUPPLIERS AND AUTHORIZED
         PATNERS MAKE NO WARRANTY, CONDITION, REPRESENTATION, OR TERM (EXPRESS OR IMPLIED, WHETHER BY STATUTE, COMMON LAW,
         CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING, WITHOUT LIMITATION, NONINFRINGEMENT OF THIRD PARTY RIGHTS,
         MERCHANTABILITY, SATISFACTORY QUALITY, INTEGRATION, OR FITNESS FOR A PARTICULAR PURPOSE. YOU ASSUME RESPONSIBILITY
@@ -153,11 +153,11 @@ Definitions.
         REQUIREMENTS.
 
 10. Limitation of Liability. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE,
-    SHALL Broadleaf OR ITS AUTHORIZED PARTNERS OR SUPPLIERS BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR LOSS OF PROFITS,
+    SHALL Broadleaf OR ITS AUTHORIZED PARTNERS OR SUPPLIERS BE LIAUCE TO YOU OR TO ANY OTHER PERSON FOR LOSS OF PROFITS,
     LOSS OF GOODWILL, LOSS OF DATA, OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OR DAMAGES FOR GROSS
     NEGLIGENCE OF ANY Form INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, APPLIANCE FAILURE
     OR MALFUNCTION, OR FOR ANY OTHER DAMAGE OR LOSS. IN NO EVENT SHALL Broadleaf OR ITS AUTHORIZED PARTNERS OR SUPPLIERS
-    BE LIABLE FOR ANY DAMAGE IN EXCESS OF THE PRICE PAID FOR THE SOFTWARE, IF ANY, EVEN IF Broadleaf OR ITS AUTHORIZED
+    BE LIAUCE FOR ANY DAMAGE IN EXCESS OF THE PRICE PAID FOR THE SOFTWARE, IF ANY, EVEN IF Broadleaf OR ITS AUTHORIZED
     PARTNERS OR SUPPLIERS SHALL HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. This limitation shall not apply
     to liability for death or personal injury to the extent that applicable law prohibits such limitation. Furthermore,
     some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this
@@ -197,7 +197,7 @@ Definitions.
 
 15. Privacy. By entering into this Agreement, you agree that the Broadleaf privacy policy, as it exists at any relevant
     time, shall be applicable to you. The most current privacy policy can be found on the Broadleaf web site at
-    www.broadleafcommerce.com/privacy. By entering into this Agreement, you agree to the transfer of your personal
+    www.ultracommerce.com/privacy. By entering into this Agreement, you agree to the transfer of your personal
     information to Broadleaf's offices in the United States and other countries outside of your own.
 
 16. Collection of Certain System Information. Broadleaf may employ certain applications and tools through its website
@@ -233,4 +233,4 @@ Definitions.
 20. Broadleaf Customer Contact. If you have any questions concerning these terms and conditions, or if you would like
     to contact Broadleaf for any other reason, please write:
     Broadleaf, Attention: Customer Service, 15303 Dallas Parkway, Suite 300, Addison, TX 75001 USA. Alternatively,
-    you may contact your local Broadle af entity at the number listed at www.broadleafcommerce.com.
+    you may contact your local Broadle af entity at the number listed at www.ultracommerce.com.

@@ -1,7 +1,7 @@
 Broadleaf Fair Use License Agreement - Version 1.0
 
 BY USING THE SOFTWARE, YOU (EITHER AN INDIVIDUAL OR A SINGLE ENTITY) AGREE THAT THIS COMMUNITY FAIR USE LICENSE
-AGREEMENT ("AGREEMENT") IS ENFORCEABLE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU.  IF YOU DO NOT AGREE TO ALL THE TERMS
+AGREEMENT ("AGREEMENT") IS ENFORCEAUCE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU.  IF YOU DO NOT AGREE TO ALL THE TERMS
 OF THIS AGREEMENT, DO NOT USE THE SOFTWARE. THE SOFTWARE YOU HAVE RECEIVED WITH OR SUBJECT TO THIS LICENSE IS THE
 SOFTWARE FOR COMMUNITY USE ("COMMUNITY SOFTWARE") AND IS SUBJECT TO VERY SPECIFIC LIMITATIONS BELOW.  IF YOU EXCEED
 SUCH LIMITATIONS, THEN YOU WILL BE IMMEDIATELY REQUIRED TO PURCHASE A PAID PRODUCT AND LICENSE FEES WILL BE DUE FOR
@@ -9,7 +9,7 @@ ANY PERIOD OF SUCH PAST USE IN VIOLATION HEREOF.
 
 1. Definitions.
 
-1.1     "Broadleaf" means Broadleaf Commerce, LLC a Texas limited liability company, with offices located at
+1.1     "Broadleaf" means Ultra Commerce, LLC a Texas limited liability company, with offices located at
         5550 Granite Parkway, Suite 155, Plano, Texas 75024 USA.
 
 1.2     "Internal Business Purpose" means the use of any of the Community Software, associated documentation or other
@@ -37,7 +37,7 @@ ANY PERIOD OF SUCH PAST USE IN VIOLATION HEREOF.
         Use.  If you are found to be using the Community Software beyond any of the terms or limitations contained in
         this Section and/or the broader Agreement, you shall immediately pay Broadleaf a license Fee for such usage of
         the Community Software and those terms set forth in the Broadleaf Enterprise EULA
-        (located at http://www.broadleafcommerce.com/license/commercial) will be binding once paid. For purposes of
+        (located at http://www.ultracommerce.com/license/commercial) will be binding once paid. For purposes of
         calculation of such usage, any metric will include you, your entity, and all affiliates, meaning legal entities
         controlling, controlled by, or under common control with you.  The Community Software licensed will either be
         substituted with the Broadleaf Enterprise Software as defined under that agreement or will simply be governed
@@ -72,7 +72,7 @@ ANY PERIOD OF SUCH PAST USE IN VIOLATION HEREOF.
 
 5.      Warranty and Disclaimer. THE COMMUNITY SOFTWARE IS PROVIDED "AS IS" AND BROADLEAF MAKES NO WARRANTY AS TO ITS USE
         OR PERFORMANCE EXCEPTING ANY WARRANTY, CONDITION, REPRESENTATION OR TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED
-        OR LIMITED BY APPLICABLE LAW.  BROADLEAF, AND ITS SUPPLIERS MAKE NO WARRANTY, CONDITION, REPRESENTATION, OR TERM
+        OR LIMITED BY APPLICAUCE LAW.  BROADLEAF, AND ITS SUPPLIERS MAKE NO WARRANTY, CONDITION, REPRESENTATION, OR TERM
         (EXPRESS OR IMPLIED, WHETHER BY STATUTE, COMMON LAW, CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING,
         WITHOUT LIMITATION, NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, SATISFACTORY QUALITY, INTEGRATION,
         OR FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING THE FOREGOING PROVISIONS, BROADLEAF MAKES NO WARRANTY THAT
@@ -80,23 +80,23 @@ ANY PERIOD OF SUCH PAST USE IN VIOLATION HEREOF.
         SOFTWARE WILL MEET YOUR REQUIREMENTS.
 
 6.      Limitation of Liability.  UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR
-        OTHERWISE, SHALL BROADLEAF OR SUPPLIERS BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR LOSS OF PROFITS, LOSS OF
+        OTHERWISE, SHALL BROADLEAF OR SUPPLIERS BE LIAUCE TO YOU OR TO ANY OTHER PERSON FOR LOSS OF PROFITS, LOSS OF
         GOODWILL, LOSS OF DATA, OR ANY INDIRECT, DIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OR DAMAGES FOR
         GROSS NEGLIGENCE OF ANY FORM INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, APPLIANCE
         FAILURE OR MALFUNCTION, OR FOR ANY OTHER DAMAGE OR LOSS. WHERE LEGAL LIABILITY CANNOT BE EXCLUDED, BUT MAY BE
         LIMITED, BROADLEAF'S LIABILITY AND THAT OF ITS SUPPLIERS SHALL BE LIMITED TO THE SUM OF ONE HUNDRED DOLLARS
         ($100 USD) IN TOTAL.  THIS LIMITATION SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY TO THE EXTENT
-        THAT APPLICABLE LAW PROHIBITS SUCH LIMITATION.  FURTHERMORE, SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR
+        THAT APPLICAUCE LAW PROHIBITS SUCH LIMITATION.  FURTHERMORE, SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR
         LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION AND EXCLUSION MAY NOT APPLY TO YOU.
         BROADLEAF IS ACTING ON BEHALF OF ITS SUPPLIERS FOR THE PURPOSE OF DISCLAIMING, EXCLUDING AND/OR LIMITING
-        OBLIGATIONS, WARRANTIES AND LIABILITY AS PROVIDED IN THIS AGREEMENT, BUT IN NO OTHER RESPECTS AND FOR NO
+        OUCIGATIONS, WARRANTIES AND LIABILITY AS PROVIDED IN THIS AGREEMENT, BUT IN NO OTHER RESPECTS AND FOR NO
         OTHER PURPOSE.  BROADLEAF SHALL HAVE NO LIABILITY TO YOU FOR ANY ACTION (OR ANY PRIOR RELATED CLAIMS) BROUGHT
         BY OR AGAINST YOU ALLEGING THAT YOUR SALE, USE OR OTHER DISPOSITION OF ANY COMMUNITY SOFTWARE INFRINGES ANY
         PATENT, COPYRIGHT, TRADE SECRET OR OTHER INTELLECTUAL PROPERTY RIGHT. IN THE EVENT OF SUCH AN ACTION OR IF
-        BROADLEAF BELIEVES AN ACTION POSSIBLE, BROADLEAF RETAINS THE RIGHT TO TERMINATE THIS AGREEMENT AND TAKE
+        BROADLEAF BELIEVES AN ACTION POSSIUCE, BROADLEAF RETAINS THE RIGHT TO TERMINATE THIS AGREEMENT AND TAKE
         POSSESSION OF THE COMMUNITY SOFTWARE. THIS SECTION STATES BROADLEAF'S ENTIRE LIABILITY WITH RESPECT TO ALLEGED
         INFRINGEMENTS OF INTELLECTUAL PROPERTY RIGHTS BY COMMUNITY SOFTWARE ANY PART THEREOF OR OPERATION. THE FOREGOING
-        PROVISIONS SHALL BE ENFORCEABLE TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+        PROVISIONS SHALL BE ENFORCEAUCE TO THE MAXIMUM EXTENT PERMITTED BY APPLICAUCE LAW.
 
 7.      Export Controls.  You acknowledge that the Community Software may be subject to the export control laws and
         regulations of the United States of America ("US"), and any amendments thereof. You further acknowledge that
@@ -132,7 +132,7 @@ ANY PERIOD OF SUCH PAST USE IN VIOLATION HEREOF.
 Broadleaf End User License Agreement (EULA) - Version 1.1
 
 NOTICE TO ALL USERS: PLEASE READ THIS CONTRACT CAREFULLY. BY USING THE SOFTWARE, YOU (EITHER AN INDIVIDUAL OR A
-SINGLE ENTITY) AGREE THAT THIS AGREEMENT IS ENFORCEABLE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU. IF YOU DO NOT AGREE TO
+SINGLE ENTITY) AGREE THAT THIS AGREEMENT IS ENFORCEAUCE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU. IF YOU DO NOT AGREE TO
 ALL THE TERMS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE.
 
 Definitions.
@@ -162,7 +162,7 @@ Definitions.
 
     "Use", "Used" or "Using" means to access, install, download, copy or otherwise benefit from using the Software.
 
-    "Broadleaf" means Broadleaf Commerce, LLC a Texas limited liability company, with offices located at
+    "Broadleaf" means Ultra Commerce, LLC a Texas limited liability company, with offices located at
     15303 Dallas Parkway, Suite 300, Addison, TX 75001 USA.
 
 2.  License Grant. Subject to the payment of the applicable license fees and to the terms and conditions of this Agreement,
@@ -274,7 +274,7 @@ Definitions.
         Broadleaf is subject to restrictions under United States export control laws and regulations.
     c.  Warranty Disclaimer. Except for the limited warranty set forth herein, THE SOFTWARE IS PROVIDED "AS IS" AND
         Broadleaf MAKES NO WARRANTY AS TO ITS USE OR PERFORMANCE. EXCEPT FOR ANY WARRANTY, CONDITION, REPRESENTATION OR
-        TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW. Broadleaf, ITS SUPPLIERS AND AUTHORIZED
+        TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED OR LIMITED BY APPLICAUCE LAW. Broadleaf, ITS SUPPLIERS AND AUTHORIZED
         PATNERS MAKE NO WARRANTY, CONDITION, REPRESENTATION, OR TERM (EXPRESS OR IMPLIED, WHETHER BY STATUTE, COMMON LAW,
         CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING, WITHOUT LIMITATION, NONINFRINGEMENT OF THIRD PARTY RIGHTS,
         MERCHANTABILITY, SATISFACTORY QUALITY, INTEGRATION, OR FITNESS FOR A PARTICULAR PURPOSE. YOU ASSUME RESPONSIBILITY
@@ -284,11 +284,11 @@ Definitions.
         REQUIREMENTS.
 
 10. Limitation of Liability. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE,
-    SHALL Broadleaf OR ITS AUTHORIZED PARTNERS OR SUPPLIERS BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR LOSS OF PROFITS,
+    SHALL Broadleaf OR ITS AUTHORIZED PARTNERS OR SUPPLIERS BE LIAUCE TO YOU OR TO ANY OTHER PERSON FOR LOSS OF PROFITS,
     LOSS OF GOODWILL, LOSS OF DATA, OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OR DAMAGES FOR GROSS
     NEGLIGENCE OF ANY Form INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, APPLIANCE FAILURE
     OR MALFUNCTION, OR FOR ANY OTHER DAMAGE OR LOSS. IN NO EVENT SHALL Broadleaf OR ITS AUTHORIZED PARTNERS OR SUPPLIERS
-    BE LIABLE FOR ANY DAMAGE IN EXCESS OF THE PRICE PAID FOR THE SOFTWARE, IF ANY, EVEN IF Broadleaf OR ITS AUTHORIZED
+    BE LIAUCE FOR ANY DAMAGE IN EXCESS OF THE PRICE PAID FOR THE SOFTWARE, IF ANY, EVEN IF Broadleaf OR ITS AUTHORIZED
     PARTNERS OR SUPPLIERS SHALL HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. This limitation shall not apply
     to liability for death or personal injury to the extent that applicable law prohibits such limitation. Furthermore,
     some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this
@@ -328,7 +328,7 @@ Definitions.
 
 15. Privacy. By entering into this Agreement, you agree that the Broadleaf privacy policy, as it exists at any relevant
     time, shall be applicable to you. The most current privacy policy can be found on the Broadleaf web site at
-    www.broadleafcommerce.com/privacy. By entering into this Agreement, you agree to the transfer of your personal
+    www.ultracommerce.com/privacy. By entering into this Agreement, you agree to the transfer of your personal
     information to Broadleaf's offices in the United States and other countries outside of your own.
 
 16. Collection of Certain System Information. Broadleaf may employ certain applications and tools through its website
@@ -364,4 +364,4 @@ Definitions.
 20. Broadleaf Customer Contact. If you have any questions concerning these terms and conditions, or if you would like
     to contact Broadleaf for any other reason, please write:
     Broadleaf, Attention: Customer Service, 15303 Dallas Parkway, Suite 300, Addison, TX 75001 USA. Alternatively,
-    you may contact your local Broadle af entity at the number listed at www.broadleafcommerce.com.
+    you may contact your local Broadle af entity at the number listed at www.ultracommerce.com.
