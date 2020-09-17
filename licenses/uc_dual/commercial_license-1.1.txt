@@ -110,7 +110,7 @@ Definitions.
     such software and all terms under this Agreement will be binding. Unless otherwise specifically agreed in writing by
     Ultra, Ultra does not provide maintenance or support for any Evaluation Software, Loaned Software or Beta
     Software. YOU RECOGNIZE THAT THE EVALUATION, LOANED OR BETA SOFTWARE MAY HAVE DEFECTS OR DEFICIENCIES WHICH CANNOT
-    OR MAY NOT BE CORRECTED BY BROADLEAF. Ultra shall have no liability to you for any action (or any prior related
+    OR MAY NOT BE CORRECTED BY ULTRA. Ultra shall have no liability to you for any action (or any prior related
     claims) brought by or against you alleging that your sale, use or other disposition of any Evaluation Software,
     Loaned Software or Beta Software infringes any patent, copyright, trade secret or other intellectual property right.
     In the event of such an action, Ultra retains the right to terminate this Agreement and take possession of the
